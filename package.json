@@ -1,0 +1,16 @@
+{
+  "name": "jn001",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "ejs": "~2.5.6",
+    "express": "^3.4.7",
+	"express-partials":"*",
+    "morgan": "~1.8.1",
+	"mongodb": "*",
+	"monk": "*"
+  }
+}
