@@ -16,5 +16,6 @@
   <author email="sherry110534@gmail.com">
       Jing
   </author>
+  <access origin="http://10.0.2.2:3000"/>
 
 </widget>
